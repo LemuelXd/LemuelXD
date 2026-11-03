@@ -1,103 +1,146 @@
-👋 Hey, I'm Lemuel Njoroge
+<div align="center"><!-- HERO BANNER --><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0891b2&text=LEMUEL%20NJOROGE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Digital%20Experiences&descSize=16&descAlignY=60&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;AI+%26+Innovation+Enthusiast;Creative+Problem+Solver;Always+Building+Something+New" alt="Developer roles" />Software Engineering Student @ Kirinyaga University | Kenya 🇰🇪
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Frontend+Developer;AI+%26+Innovation+Enthusiast;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,50:164e63,100:06b6d4&height=180&section=header&text=BUILD.%20INNOVATE.%20EVOLVE.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
-</p><p align="center">
-  <a href="https://github.com/LemuelXd">
-    <img src="https://img.shields.io/badge/GitHub-LemuelXd-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kenya-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0891b2?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>---
+Curious mind. Creative thinker. Developer in progress.
 
-🧑‍💻 About Me
+<br/><a href="https://portfolio-lemuel.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-00BFFF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/LemuelXd">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></div>---
 
-I'm a Software Engineering student at Kirinyaga University, Kenya, passionate about technology, creative problem-solving, and building digital experiences that make a difference.
+"01 / About Me"
 
-I enjoy transforming ideas into functional applications, exploring the possibilities of AI, and continuously improving my development skills.
+const lemuel = {
+  name: "Lemuel Njoroge",
+  role: "Software Engineering Student",
+  university: "Kirinyaga University 🇰🇪",
 
-- 🌐 Interested in modern web development and interactive interfaces
-- 🤖 Exploring AI integration and intelligent applications
-- 💡 Passionate about turning innovative ideas into real-world solutions
-- 🎨 Interested in UI/UX, responsive design, and creative experiences
-- 🔭 Always experimenting with new technologies and project concepts
-- 🌱 Currently expanding my knowledge in full-stack development and software architecture
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "UI/UX & Interactive Design",
+    "Real-World Problem Solving"
+  ],
+
+  mindset: "Learn. Build. Experiment. Evolve.",
+
+  goal: "Turn creative ideas into useful technology."
+};
+
+I'm passionate about technology and the endless possibilities of software development.
+
+I enjoy creating interactive web experiences, exploring AI-powered solutions, and experimenting with ideas that can solve real-world problems.
+
+I believe the best way to grow as a developer is to keep building, stay curious, and never stop learning.
 
 ---
 
-🛠️ Tech Stack
+"02 / Tech Stack"
 
 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
-</p>Frameworks & Libraries
+</p>Frameworks & Styling
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>Tools & Platforms
+</p>Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>Areas I'm Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration-0F172A?style=flat-square&logo=openai&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0F172A?style=flat-square&logo=css3&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Software_Architecture-0F172A?style=flat-square&logo=blueprint&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-0F172A?style=flat-square&logo=code&logoColor=22D3EE" />
 </p>---
 
-💡 Ideas I'm Bringing to Life
+"03 / Selected Projects & Ideas"
 
-Project| Concept
-📚 Story Spark Studio| Interactive storytelling experiences for children
-🔎 Lost & Found System| Smart item matching to reconnect lost belongings with owners
-🛡️ AI Fraud Detection| Intelligent detection of suspicious financial transactions
-🌦️ Weather Dashboard| Interactive weather forecasting and analytics
-🎫 IT Help Desk| A ticketing system for efficient IT support management
+<table>
+<tr>
+<td width="50%">📚 Story Spark Studio
 
-Building practical solutions through creativity, technology, and continuous learning.
+Interactive storytelling concept designed to bring children's stories to life through customizable characters, narration, and imaginative experiences.
+
+Focus: React · Interactive UI · AI concepts
+
+<a href="https://story-spark-studio-72.vercel.app/">Explore Project ↗</a>
+
+</td>
+<td width="50%">🔎 Lost & Found System
+
+A smart platform concept that helps people recover lost belongings through detailed reports and AI-assisted item matching.
+
+Focus: React · UI/UX · AI Matching
+
+</td>
+</tr>
+<tr>
+<td width="50%">🛡️ AI Fraud Detection
+
+An intelligent system concept for identifying suspicious financial transactions and helping improve digital transaction security.
+
+Focus: AI · Data Analysis · Security
+
+</td>
+<td width="50%">🎫 IT Help Desk System
+
+A support ticketing platform for managing IT issues, technician assignments, resolutions, and service performance.
+
+Focus: Web Development · System Design
+
+</td>
+</tr>
+</table>More ideas are always in development — the goal is to turn concepts into working solutions.
 
 ---
 
-📊 GitHub Analytics
+"04 / Current Focus"
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LemuelXd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelXd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=LemuelXd&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%" />
-</p>---
-
-🎯 My Developer Philosophy
-
-«"Great software starts with a simple idea, grows through curiosity, and becomes powerful through execution."»
-
-I believe in learning by building, embracing challenges, and using technology to create meaningful impact.
+▸ Strengthening JavaScript & TypeScript fundamentals
+▸ Building responsive React applications
+▸ Exploring AI integration in practical systems
+▸ Improving UI/UX and interaction design
+▸ Learning backend development & databases
+▸ Moving from ideas to complete, usable products
 
 ---
 
-🤝 Let's Connect
+"05 / Beyond The Code"
 
-<p align="center">
-  <a href="https://github.com/LemuelXd">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://2z33qvo3qgfsg.ok.kimi.link/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LemuelXd&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
-</p><p align="center">
-  <i>Thanks for stopping by. Let's build something extraordinary! 🚀</i>
-</p>
-<!--
-**LemuelXd/LemuelXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Exploring new ideas and emerging technologies
+- 🧠 Researching AI and its real-world applications
+- 🎨 Experimenting with creative interface design
+- 🛠️ Building projects to learn through experience
+- 🚀 Working toward becoming a well-rounded software engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"06 / My Philosophy"
+
+<div align="center">"Think beyond the ordinary. Build beyond the idea."
+
+I don't just want to write code.
+
+I want to create technology that is useful, intuitive, creative, and meaningful.
+
+</div>---
+
+"07 / Explore My Work"
+
+<div align="center"><a href="https://portfolio-lemuel.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-0F172A?style=for-the-badge&logoColor=22D3EE" />
+</a><a href="https://github.com/LemuelXd?tab=repositories">
+  <img src="https://img.shields.io/badge/🧩_EXPLORE_MY_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891b2,50:0f172a,100:020617&section=footer" width="100%" />Thanks for visiting my profile!
+
+<sub>Always learning • Always building • Always evolving</sub>
+
+</div>
