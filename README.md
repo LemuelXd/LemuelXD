@@ -1,90 +1,79 @@
-👋 Hey, I'm Lemuel Njoroge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LemuelXd/LemuelXD/main/assets/profile-banner.svg" alt="Lemuel Njoroge — Software Engineering, Frontend Development" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Frontend+Developer;AI+%26+Innovation+Enthusiast;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,50:164e63,100:06b6d4&height=180&section=header&text=BUILD.%20INNOVATE.%20EVOLVE.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
-</p><p align="center">
-  <a href="https://github.com/LemuelXd">
-    <img src="https://img.shields.io/badge/GitHub-LemuelXd-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kenya-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0891b2?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>---
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+useful+digital+experiences;Developing+modern+web+applications;Exploring+AI+and+intelligent+systems;Learning+by+building+and+refining" alt="Animated introduction" />
+</p>
 
-🧑‍💻 About Me
-
-I'm a Software Engineering student at Kirinyaga University, Kenya, passionate about technology, creative problem-solving, and building digital experiences that make a difference.
-
-I enjoy transforming ideas into functional applications, exploring the possibilities of AI, and continuously improving my development skills.
-
-- 🌐 Interested in modern web development and interactive interfaces
-- 🤖 Exploring AI integration and intelligent applications
-- 💡 Passionate about turning innovative ideas into real-world solutions
-- 🎨 Interested in UI/UX, responsive design, and creative experiences
-- 🔭 Always experimenting with new technologies and project concepts
-- 🌱 Currently expanding my knowledge in full-stack development and software architecture
+<p align="center">
+  <a href="https://portfolio-lemuel.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-0B1220?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Visit portfolio" /></a>
+  <a href="mailto:njorogelem@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Lemuel" /></a>
+  <a href="https://github.com/LemuelXd"><img src="https://img.shields.io/badge/GITHUB-LemuelXd-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" /></a>
+</p>
 
 ---
 
-🛠️ Tech Stack
+## About
 
-Languages
+I'm **Lemuel Njoroge**, a Software Engineering student at **Kirinyaga University, Kenya**, interested in building practical software and thoughtful digital experiences.
+
+My current focus is frontend development with React and TypeScript, responsive interface design, and exploring how AI can make applications more useful. I enjoy taking an idea from an early concept to a working product while strengthening the engineering fundamentals behind it.
+
+## Technology
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" />
+</p>
+
+**Frameworks and UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React, Tailwind CSS and Vite" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, Visual Studio Code and Figma" />
+</p>
+
+**Working knowledge:** responsive web design, interactive interfaces, UI/UX fundamentals and database management fundamentals.
+
+**Exploring:** AI API integration, backend development, database architecture and software design.
+
+## Selected Work
+
+### [LostLink AI](https://github.com/LostLinkAi/lostlinkai_frontend)
+A collaborative frontend project exploring a smarter lost-property experience. It brings together lost and found reports and presents potential matches to help people reconnect with misplaced belongings.
+
+**React 19** · **TypeScript** · **Vite** · **React Router** · **Framer Motion**
+
+<sub>The current repository describes a frontend prototype: demo data is stored locally and match scores are illustrative, not proof of ownership.</sub>
+
+[View repository →](https://github.com/LostLinkAi/lostlinkai_frontend)
+
+### [Personal Portfolio](https://portfolio-lemuel.vercel.app/)
+My personal portfolio: a place to explore my development work, technical interests and ongoing journey in software engineering.
+
+**React** · **TypeScript** · **Vite**
+
+[Live portfolio →](https://portfolio-lemuel.vercel.app/) · [Source code →](https://github.com/LemuelXd/actual-portfoliuo)
+
+## Current Interests
+
+- Building responsive, accessible and maintainable web interfaces.
+- Deepening my understanding of React and TypeScript.
+- Exploring practical AI integrations.
+- Strengthening backend, database and software architecture fundamentals.
+
+## Connect
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
-</p>Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>---
-
-💡 Ideas I'm Bringing to Life
-
-Project| Concept
-📚 Story Spark Studio| Interactive storytelling experiences for children
-🔎 Lost & Found System| Smart item matching to reconnect lost belongings with owners
-🛡️ AI Fraud Detection| Intelligent detection of suspicious financial transactions
-🌦️ Weather Dashboard| Interactive weather forecasting and analytics
-🎫 IT Help Desk| A ticketing system for efficient IT support management
-
-Building practical solutions through creativity, technology, and continuous learning.
-
----
-
-🎯 My Developer Philosophy
-
-«"Great software starts with a simple idea, grows through curiosity, and becomes powerful through execution."»
-
-I believe in learning by building, embracing challenges, and using technology to create meaningful impact.
-
----
-
-🌐 Explore My Portfolio
+  <a href="https://portfolio-lemuel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=vercel&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="mailto:njorogelem@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/LemuelXd"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+</p>
 
 <p align="center">
-  <a href="https://portfolio-lemuel.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Explore%20My%20Work-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p><p align="center">
-  <a href="https://portfolio-lemuel.vercel.app/">https://portfolio-lemuel.vercel.app/</a>
-</p>---
-
-🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/LemuelXd">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://portfolio-lemuel.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LemuelXd&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
-</p><p align="center">
-  <i>Thanks for stopping by. Let's build something extraordinary! 🚀</i>
+  <sub>Curious by nature. Building with purpose.</sub>
 </p>
