@@ -1,44 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Lemuel Njoroge — Software Engineering</title>
-  <desc id="desc">A dark navy technology banner with cyan and violet gradients, subtle grid lines, and the words Build. Learn. Engineer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390" role="img" aria-labelledby="title desc">
+  <title id="title">Lemuel Njoroge — Software Engineer in the making</title>
+  <desc id="desc">A futuristic midnight-blue banner with luminous cyan and violet orbital rings, code-inspired details, and bold typography.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset=".55" stop-color="#0b1930"/>
-      <stop offset="1" stop-color="#11152b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset=".55" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="42%" r="55%">
-      <stop offset="0" stop-color="#2563eb" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#8bb8d8" stroke-opacity=".09" stroke-width="1"/>
-    </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#101a35"/><stop offset="1" stop-color="#17112f"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".48" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#2563eb" stop-opacity=".34"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#9ac7ff" stroke-opacity=".075"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
-  <circle cx="1000" cy="80" r="115" fill="#2563eb" opacity=".16" filter="url(#blur)"/>
-  <circle cx="1080" cy="245" r="100" fill="#7c3aed" opacity=".13" filter="url(#blur)"/>
-  <g fill="none" stroke="url(#accent)" opacity=".7">
-    <circle cx="1010" cy="160" r="92" stroke-width="1.5"/>
-    <circle cx="1010" cy="160" r="66" stroke-width="1" stroke-dasharray="5 9"/>
-    <path d="M910 160h200M1010 60v200" stroke-width="1" opacity=".45"/>
-    <path d="M940 95l140 130M1080 95L940 225" stroke-width="1" opacity=".3"/>
+  <rect width="1400" height="390" rx="26" fill="url(#bg)"/><rect width="1400" height="390" rx="26" fill="url(#grid)"/>
+  <ellipse cx="1110" cy="185" rx="300" ry="250" fill="url(#aura)"/>
+  <circle cx="1110" cy="185" r="128" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="28" filter="url(#glow)"/>
+  <g transform="translate(1110 185)" fill="none" stroke="url(#neon)">
+    <ellipse rx="178" ry="70" transform="rotate(-28)" stroke-width="2" opacity=".8"/>
+    <ellipse rx="178" ry="70" transform="rotate(48)" stroke-width="1.5" opacity=".52"/>
+    <circle r="104" stroke-width="1.2" stroke-dasharray="4 10" opacity=".7"/>
+    <circle r="68" stroke-width="1" opacity=".3"/>
+    <path d="M-220 0H220M0-220V220" opacity=".22"/>
+    <circle cx="154" cy="-88" r="7" fill="#67e8f9" stroke="none"/>
+    <circle cx="-130" cy="105" r="5" fill="#c084fc" stroke="none"/>
   </g>
-  <g transform="translate(82 78)">
-    <rect x="0" y="0" width="4" height="150" rx="2" fill="url(#accent)"/>
-    <text x="28" y="58" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">LEM﻿UEL NJOROGE</text>
-    <text x="30" y="100" fill="#b8c7dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="2.1">SOFTWARE ENGINEERING  /  FRONTEND DEVELOPMENT</text>
-    <text x="30" y="142" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3.4">BUILD  •  LEARN  •  ENGINEER</text>
+  <g transform="translate(86 92)">
+    <rect width="5" height="198" rx="3" fill="url(#neon)"/>
+    <text x="34" y="70" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-2">LEMUEL NJOROGE</text>
+    <text x="38" y="116" fill="#b8c8e5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="3">SOFTWARE ENGINEERING STUDENT</text>
+    <text x="38" y="166" fill="url(#neon)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">FRONTEND  ·  AI  ·  BUILDING WHAT'S NEXT</text>
   </g>
-  <g fill="#dbeafe" opacity=".7">
-    <circle cx="865" cy="72" r="2"/><circle cx="1124" cy="118" r="2"/><circle cx="895" cy="260" r="2"/><circle cx="1150" cy="245" r="2"/>
-  </g>
+  <g font-family="monospace" font-size="14" fill="#a5b4fc" opacity=".42"><text x="940" y="55">&lt;build /&gt;</text><text x="1220" y="335">const future = "crafted";</text><text x="72" y="350">01 — CREATE</text></g>
+  <g fill="#e0f2fe" opacity=".55"><circle cx="860" cy="70" r="2"/><circle cx="1320" cy="100" r="2"/><circle cx="910" cy="315" r="2"/><circle cx="1300" cy="270" r="2"/></g>
 </svg>
